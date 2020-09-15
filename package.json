@@ -1,5 +1,6 @@
 {
    "name": "@invisionapp/dsm-storybook",
+   "version": "0.0.134",
    "repository": {
       "type": "git",
       "url": "https://github.com/InVisionApp/dsm-storybook-cli"
